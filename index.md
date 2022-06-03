@@ -15,7 +15,5 @@
 ![p1-break.png](p1-break.png)
 4. p1-ping.png
 ![p1-break.png](p1-break.png)
-5. p1-date.js
-[p1-date.js](p1-date.js)
-6. p1-random.js
-[p1-random.js](p1-random.js)
+5. [p1-date.js](p1-date.js)
+6. [p1-random.js](p1-random.js)
